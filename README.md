@@ -4,7 +4,7 @@
     * Quảng cáo: Phiên bản miễn phí của Pydroid 3 xuất hiện quảng cáo, điều này có thể làm phiền và làm gián đoạn trải nghiệm người dùng trong quá trình sử dụng ứng dụng.
     * Giới hạn tính năng: Phiên bản miễn phí của Pydroid 3 có thể có một số giới hạn tính năng so với phiên bản Premium (trả phí), điều này có thể ảnh hưởng đến khả năng sử dụng và hiệu suất của ứng dụng.
 # Pydroid 3 Premium APK
-**Ở bản cài đặt này tôi đã**
+**Ở bản vá này tôi đã**
 * **Việt hoá**
     * *Việt hoá lại giao diện để thân thiện với những người mù tiếng Anh như tôi :)*
 * Gỡ bỏ khả năng quảng cáo
