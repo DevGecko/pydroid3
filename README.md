@@ -17,5 +17,5 @@
 * Loại bỏ những thứ không cần thiết để cải thiện hiệu suất
 ## Về Pydroid 3 Plugin
 Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế tôi đã tạo một bản sao apk và obb được cài thủ công
-## Download
+# Download
 [Phiên bản mới nhất](https://github.com/tduc-dev/pydroid3/releases/tag/v1.0)
