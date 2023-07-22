@@ -5,12 +5,16 @@
     * Giới hạn tính năng: Phiên bản miễn phí của Pydroid 3 có thể có một số giới hạn tính năng so với phiên bản Premium (trả phí), điều này có thể ảnh hưởng đến khả năng sử dụng và hiệu suất của ứng dụng.
 # Pydroid 3 Premium APK
 **Ở bản cài đặt này tôi đã**
-* **Việt hoá** *(Việt hoá lại giao diện để thân thiện với những người mù tiếng Anh như tôi :) )*
+* **Việt hoá**
+    * *Việt hoá lại giao diện để thân thiện với những người mù tiếng Anh như tôi :)*
 * Gỡ bỏ khả năng quảng cáo
+* Khôi phục một số pip cài tự động
 * Khôi phục tính năng tự động hoàn thành
 * Khôi phục báo cáo lỗi
 * Sửa lỗi bàn phím khi dùng Gboard
 * Khôi phục và cập nhật lại mẫu
 * Loại bỏ những thứ không cần thiết để cải thiện hiệu suất
+# Về Pydroid 3 Plugin
+Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế tôi đã tạo một bản sao apk và obb được cài thủ công cho một số người cần
 # Download
 [Phiên bản mới nhất](https://github.com/tduc-dev/pydroid3/releases/tag/v1.0)
