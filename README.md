@@ -1,9 +1,9 @@
 # Thông tin cần biết
 ## Pydroid 3
-* **Pydroid 3** là môi trường phát triển tích hợp Python cho thiết bị di động Android, cho phép viết, chạy và sửa code Python trên điện thoại thông minh hoặc máy tính bảng
+* **Pydroid 3** là môi trường phát triển tích hợp Python cho thiết bị di động Android, cho phép viết, chạy và sửa code Python trên điện thoại
 * Vì tính miễn phí nên Pydroid 3 sẽ xuất hiện một số vẫn đề:
     * **Quảng cáo**: Phiên bản miễn phí xuất hiện quảng cáo, làm phiền và làm gián đoạn trải nghiệm người dùng
-    * **Giới hạn tính năng**: Phiên bản miễn phí có thể giới hạn tính năng so với phiên bản Premium, ảnh hưởng đến khả năng sử dụng và hiệu suất ứng dụng
+    * **Giới hạn tính năng**: Phiên bản miễn phí giới hạn tính năng so với phiên bản Premium, ảnh hưởng đến khả năng sử dụng và hiệu suất ứng dụng
 ## Pydroid 3 Premium APK
 **Ở bản vá này tôi đã**
 * **Việt hoá** *(Việt hoá lại giao diện)*
