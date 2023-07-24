@@ -17,7 +17,7 @@
     * Từ giờ việc kiểm soát lỗi sai sẽ trở nên dễ dàng hơn
       
       ![Mô tả](screenshots/code_analysis.png)
-* Sửa lỗi bàn phím khi dùng Gboard
+* Sửa lỗi bàn phím
 * Khôi phục và cập nhật lại mẫu
     * Vô vàn mẫu siêu hay
       
