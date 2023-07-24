@@ -10,13 +10,13 @@
 * Gỡ bỏ khả năng quảng cáo
 * Khôi phục một số pip cài tự động
 * Khôi phục tính năng tự động hoàn thành
-    * Bật trong Hệ thống
+    * Từ giờ việc code sẽ trở nên nhẹ nhàng hơn với tính năng này
 
-      ![Bật](screenshots/en_auto_complete.png)
-    * Hoạt động
-
-      ![Hoạt động](screenshots/auto_complete.png)
-* Khôi phục báo cáo lỗi
+      ![Mô tả](screenshots/auto_complete.png)
+* Khôi phục phân tích mã
+    * Từ giờ việc kiểm soát lỗi sai sẽ trở nên dễ dàng hơn
+      
+      ![Mô tả](screenshots/code_analysis.png)
 * Sửa lỗi bàn phím khi dùng Gboard
 * Khôi phục và cập nhật lại mẫu
 * **Cuối cùng** loại bỏ những thứ không cần thiết để cải thiện hiệu suất
