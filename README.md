@@ -11,9 +11,9 @@
 * Khôi phục một số pip cài tự động
 * Khôi phục tính năng tự động hoàn thành
     * Bật trong Hệ thống
-    * ![Bật](screenshots/en_auto_complete.png)
+      ![Bật](screenshots/en_auto_complete.png)
     * Hoạt động
-    * ![Hoạt động](screenshots/auto_complete.png)
+      ![Hoạt động](screenshots/auto_complete.png)
 * Khôi phục báo cáo lỗi
 * Sửa lỗi bàn phím khi dùng Gboard
 * Khôi phục và cập nhật lại mẫu
@@ -22,8 +22,3 @@
 Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế tôi đã tạo một bản sao apk và obb fix điều đó
 # Download
 [Phiên bản mới nhất](https://github.com/tduc-dev/pydroid3/releases/tag/v1.0)
-
-|   |   |
-|---|---|
-|Bật trong mục Hệ thống|![Bật](screenshots/en_auto_complete.png)|
-|Hoạt động đề xuất|![Hoạt động](screenshots/auto_complete.png)|
