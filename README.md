@@ -11,8 +11,10 @@
 * Khôi phục một số pip cài tự động
 * Khôi phục tính năng tự động hoàn thành
     * Bật trong Hệ thống
+
       ![Bật](screenshots/en_auto_complete.png)
     * Hoạt động
+
       ![Hoạt động](screenshots/auto_complete.png)
 * Khôi phục báo cáo lỗi
 * Sửa lỗi bàn phím khi dùng Gboard
