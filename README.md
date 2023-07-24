@@ -19,6 +19,9 @@
       ![Mô tả](screenshots/code_analysis.png)
 * Sửa lỗi bàn phím khi dùng Gboard
 * Khôi phục và cập nhật lại mẫu
+    * Vô vàn mẫu siêu hay
+      
+      ![Mô tả](screenshots/samples.jpg)
 * **Cuối cùng** loại bỏ những thứ không cần thiết để cải thiện hiệu suất
 ## Về Pydroid 3 Plugin
 Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế tôi đã tạo một bản sao apk và obb fix điều đó
