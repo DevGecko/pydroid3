@@ -23,6 +23,7 @@ Trên một số thiết bị sẽ không cài được nó trên Google Play, v
 # Download
 [Phiên bản mới nhất](https://github.com/tduc-dev/pydroid3/releases/tag/v1.0)
 
-Bật trong mục Hệ thống |  ![Bật](screenshots/en_auto_complete.png)
---- | --- 
-**Hoạt động đề xuất** | ![Hoạt động](screenshots/auto_complete.png)
+|   |   |
+|---|---|
+|Bật trong mục Hệ thống|![Bật](screenshots/en_auto_complete.png)|
+|Hoạt động đề xuất|![Hoạt động](screenshots/auto_complete.png)|
