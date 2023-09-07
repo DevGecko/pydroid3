@@ -31,5 +31,5 @@
 Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế mình đã tạo một bản sao apk và obb fix điều đó
 # Download
 [![Downloads](https://img.shields.io/badge/Phi%C3%AAn%20b%E1%BA%A3n-m%E1%BB%9Bi%20nh%E1%BA%A5t-brightgreen
-)](https://github.com/tduc-dev/pydroid3/releases/tag/v1.0)
+)](https://github.com/DevGecko/pydroid3/releases/tag/v1.0)
 
