@@ -26,6 +26,12 @@
     * Từ giờ không lo đang code thì bị văng :)
       
       ![Mô tả](screenshots/autosave.jpg)
+* Cập nhật 16/12/2023
+    * Tính năng đề xuất bộ nhớ đệm văn bản để thuận tiện paste
+      
+      ![Mô tả](screenshots/textcache.jpg)
+
+    * Giao diện Solarized dark sẽ là mặc định
 * **Cuối cùng** loại bỏ những thứ không cần thiết để cải thiện hiệu suất
 ## Về Pydroid 3 Plugin
 Trên một số thiết bị sẽ không cài được nó trên Google Play, vì thế mình đã tạo một bản sao apk và obb fix điều đó
